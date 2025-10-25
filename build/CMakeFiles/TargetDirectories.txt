@@ -1,0 +1,4 @@
+E:/Programowanie/siplasplas/build/CMakeFiles/car.dir
+E:/Programowanie/siplasplas/build/CMakeFiles/CarApp.dir
+E:/Programowanie/siplasplas/build/CMakeFiles/ALL_BUILD.dir
+E:/Programowanie/siplasplas/build/CMakeFiles/ZERO_CHECK.dir

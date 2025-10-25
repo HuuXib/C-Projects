@@ -1,0 +1,2 @@
+In car.h we only define the class ,its atributes and its methotds.
+We don't make methods usable here, because their implementation belongs in the .cpp file.
