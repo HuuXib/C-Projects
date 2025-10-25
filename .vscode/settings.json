@@ -1,5 +1,6 @@
 {
     "files.associations": {
+<<<<<<< HEAD
         "xstring": "cpp",
         "iostream": "cpp",
         "atomic": "cpp",
@@ -51,4 +52,10 @@
         "xutility": "cpp"
     },
     "cmake.sourceDirectory": "E:/Programowanie/siplasplas"
+=======
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+>>>>>>> dc1a5f28743baf848f3f32a2eef13df430cdfa02
 }
